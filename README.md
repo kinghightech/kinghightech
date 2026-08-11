@@ -1,6 +1,6 @@
 ## Hi there, I'm Aahish Abbani 👋
 
-I'm a 16-year-old high school student interested in software development, startups, finance, AI, and building useful products.
+I'm a 15-year-old high school student interested in software development, startups, finance, AI, and building useful products.
 
 I enjoy working on apps, participating in hackathons, learning new technologies, and creating projects that solve real problems.
 
