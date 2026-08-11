@@ -6,15 +6,6 @@ I enjoy working on apps, participating in hackathons, learning new technologies,
 
 <br>
 
-## 🚀 What I'm Working On
-
-- 🔭 I'm currently building **Dharma Daily**, an app that helps users learn about Hinduism through quotes from the Bhagavad Gita and simple daily lessons.
-
-- 👕 I'm also working on a clothing brand connected to Dharma Daily.
-
-- 🤖 I'm exploring AI agents, app development, and tools that can make learning and productivity easier.
-
-<br>
 
 ## 🛠️ Interests
 
